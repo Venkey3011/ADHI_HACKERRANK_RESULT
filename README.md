@@ -3,4 +3,4 @@ This app can gather the result of the contests from hackerrank and export the re
 
 * No dependencies are requires *
 
-**/ Just run and Go! **
+**  Just run and Go!  **
